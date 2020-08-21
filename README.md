@@ -1,16 +1,18 @@
-### Hi there 👋
+# Paweł "Otlet" Otlewski
 
-<!--
-**otlet/otlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+Hey, his name was Paul and I'm from Poland.
+I'm not a programmer. I'm a Linux server administrator who likes to create his own software.
 
-Here are some ideas to get you started:
+I like fantasy, horror movies, series and books. Sometimes I read comic books. I listen to rock, metal and related music.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+But mostly I play games and develop communities gathered around games.
+
+## Where to find me on the Internet?
+
+* [Linkedin](https://www.linkedin.com/in/otlet/)
+* [Private blog](https://otlet.pl)
+* [The technology blog that I create](https://devpanda.eu)
+* [GitHub](https://github.com/otlet)
+* [GitLab](https://gitlab.com/otlet)
+* [Twitter](https://twitter.com/panotlet)
