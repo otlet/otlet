@@ -1,8 +1,9 @@
 # Paweł "Otlet" Otlewski
 
 ## About me
-Hey, his name was Paul and I'm from Poland.
-I'm not a programmer. I'm a Linux server administrator who likes to create his own software.
+Hey, my name is Paul and I'm from Poland.
+I'm not a programmer.
+I'm a Linux server administrator who likes to create his own software.
 
 I like fantasy, horror movies, series and books. Sometimes I read comic books. I listen to rock, metal and related music.
 
